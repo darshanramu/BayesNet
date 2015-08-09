@@ -1,0 +1,13 @@
+2 2
+diabetes 3 0.13
+['thirst','weightloss','blurredvision']
+[0.6,0.7,0.9]
+[0.2,0.3,0.015]
+Chickenpox 4 0.17
+['fever','sorethroat','stomachache','cough']
+[0.7,0.6,0.3,0.6]
+[0.2,0.1,0.1,0.1]
+['T','F','U']
+['T','U','F','U']
+['T','F','T']
+['F','U','T','U']
